@@ -1,0 +1,185 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:2:1-28:12
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\173134cade9db9f79f110c22cc971261\material-1.2.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\386130fc5d898b58760370fd9a5c04d8\constraintlayout-2.0.4\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\48632c3392cdb0f98a808e26ec325df1\jetified-volley-1.1.1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\79e08dad34bdc7b52c230253e6a6d1b0\jetified-glide-4.11.0\AndroidManifest.xml:2:1-12:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\b47f17e2c3b2c053869a4913261f6dcf\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\7facbb28ef383af36ee239a39f6f8a09\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\f61d5e6c72377a7841a21fe661221260\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\20945bc7a31ecf87d1b241e18574dcec\appcompat-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\144dafd855e08b79613acf00d0d882fe\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\dfe8494141fb27346e1fbf88036d4de5\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\92a67ff123a2903bb35d4ff6ded148f6\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\40c5cfe3567c5283a45a6f541519c191\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\9a6012a6041afdb9ddcc4b8a4c3c7a5f\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\efb37a5f9cd8913bd94449792eb7ef2b\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\4e795cbab9cbd07492dc6a037581cdb3\fragment-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\088ed946e25fbd625f5751e7352f037f\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\6e4b0f092cc41ea1c8da37210b7841ed\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\d06c93331799e24506d54909515e641d\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\e335d24cf0575aa7a57bbce1e2870c5f\jetified-activity-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.3.1] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\a7de8c5ab8adb88d8b33f6a6942b47ab\core-1.3.1\AndroidManifest.xml:17:1-26:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\04e9ea0bf78013af0753c83ac583ca42\jetified-gifdecoder-4.11.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\221ce5973826074911de98e916d17fad\exifinterface-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\4f44022e8f09cdbaf8fcc5724a91722a\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\a0420d844a311a9295076c8813b866cb\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\2938aebf4a74cd823b3293683d4cf274\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\d4e4b14ea270240f8c538b7fdf84dfdb\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\218c7b5e327b628abd84bbf161e57721\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\6163dace9efbda876ef00dd771eeff7f\lifecycle-runtime-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\2701c5c58f07163fe6b91f552a64fae2\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\1c2ef318c7288d1ec87a35548c865216\jetified-savedstate-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\067ec4a7d70fe6dc6e4e86dfd650a865\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\4cfe95a4dc3005f9bab9d017a289f6f5\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:2:1-28:12
+INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:2:1-28:12
+	package
+		ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:3:5-47
+		INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:2:1-28:12
+		INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:7:5-25:19
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\173134cade9db9f79f110c22cc971261\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\173134cade9db9f79f110c22cc971261\material-1.2.1\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\386130fc5d898b58760370fd9a5c04d8\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\386130fc5d898b58760370fd9a5c04d8\constraintlayout-2.0.4\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\48632c3392cdb0f98a808e26ec325df1\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\48632c3392cdb0f98a808e26ec325df1\jetified-volley-1.1.1\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\79e08dad34bdc7b52c230253e6a6d1b0\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\79e08dad34bdc7b52c230253e6a6d1b0\jetified-glide-4.11.0\AndroidManifest.xml:10:5-20
+MERGED from [androidx.core:core:1.3.1] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\a7de8c5ab8adb88d8b33f6a6942b47ab\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.1] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\a7de8c5ab8adb88d8b33f6a6942b47ab\core-1.3.1\AndroidManifest.xml:24:5-89
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\04e9ea0bf78013af0753c83ac583ca42\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\04e9ea0bf78013af0753c83ac583ca42\jetified-gifdecoder-4.11.0\AndroidManifest.xml:9:5-20
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\4f44022e8f09cdbaf8fcc5724a91722a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\4f44022e8f09cdbaf8fcc5724a91722a\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.1] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\a7de8c5ab8adb88d8b33f6a6942b47ab\core-1.3.1\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:11:9-35
+	android:label
+		ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:9:9-41
+	android:roundIcon
+		ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:10:9-48
+	android:icon
+		ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:8:9-43
+	android:allowBackup
+		ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:14:9-35
+	android:theme
+		ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:12:9-40
+	android:usesCleartextTraffic
+		ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:13:9-44
+activity#com.vimalcvs.imagesliderwithjson.MainActivity
+ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:16:9-24:20
+	android:label
+		ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:18:13-45
+	android:name
+		ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:17:13-73
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:19:13-23:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:20:17-69
+	android:name
+		ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:22:17-77
+	android:name
+		ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml:22:27-74
+uses-sdk
+INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\173134cade9db9f79f110c22cc971261\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.2.1] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\173134cade9db9f79f110c22cc971261\material-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\386130fc5d898b58760370fd9a5c04d8\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\386130fc5d898b58760370fd9a5c04d8\constraintlayout-2.0.4\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\48632c3392cdb0f98a808e26ec325df1\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.android.volley:volley:1.1.1] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\48632c3392cdb0f98a808e26ec325df1\jetified-volley-1.1.1\AndroidManifest.xml:7:5-43
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\79e08dad34bdc7b52c230253e6a6d1b0\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.11.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\79e08dad34bdc7b52c230253e6a6d1b0\jetified-glide-4.11.0\AndroidManifest.xml:6:5-8:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\b47f17e2c3b2c053869a4913261f6dcf\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\b47f17e2c3b2c053869a4913261f6dcf\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\7facbb28ef383af36ee239a39f6f8a09\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\7facbb28ef383af36ee239a39f6f8a09\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\f61d5e6c72377a7841a21fe661221260\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\f61d5e6c72377a7841a21fe661221260\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\20945bc7a31ecf87d1b241e18574dcec\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\20945bc7a31ecf87d1b241e18574dcec\appcompat-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\144dafd855e08b79613acf00d0d882fe\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\144dafd855e08b79613acf00d0d882fe\jetified-appcompat-resources-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\dfe8494141fb27346e1fbf88036d4de5\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\dfe8494141fb27346e1fbf88036d4de5\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\92a67ff123a2903bb35d4ff6ded148f6\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\92a67ff123a2903bb35d4ff6ded148f6\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\40c5cfe3567c5283a45a6f541519c191\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\40c5cfe3567c5283a45a6f541519c191\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\9a6012a6041afdb9ddcc4b8a4c3c7a5f\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\9a6012a6041afdb9ddcc4b8a4c3c7a5f\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\efb37a5f9cd8913bd94449792eb7ef2b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\efb37a5f9cd8913bd94449792eb7ef2b\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\4e795cbab9cbd07492dc6a037581cdb3\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\4e795cbab9cbd07492dc6a037581cdb3\fragment-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\088ed946e25fbd625f5751e7352f037f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\088ed946e25fbd625f5751e7352f037f\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\6e4b0f092cc41ea1c8da37210b7841ed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\6e4b0f092cc41ea1c8da37210b7841ed\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\d06c93331799e24506d54909515e641d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\d06c93331799e24506d54909515e641d\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\e335d24cf0575aa7a57bbce1e2870c5f\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\e335d24cf0575aa7a57bbce1e2870c5f\jetified-activity-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\a7de8c5ab8adb88d8b33f6a6942b47ab\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.1] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\a7de8c5ab8adb88d8b33f6a6942b47ab\core-1.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\04e9ea0bf78013af0753c83ac583ca42\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.11.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\04e9ea0bf78013af0753c83ac583ca42\jetified-gifdecoder-4.11.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\221ce5973826074911de98e916d17fad\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.exifinterface:exifinterface:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\221ce5973826074911de98e916d17fad\exifinterface-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\4f44022e8f09cdbaf8fcc5724a91722a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\4f44022e8f09cdbaf8fcc5724a91722a\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\a0420d844a311a9295076c8813b866cb\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\a0420d844a311a9295076c8813b866cb\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\2938aebf4a74cd823b3293683d4cf274\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\2938aebf4a74cd823b3293683d4cf274\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\d4e4b14ea270240f8c538b7fdf84dfdb\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\d4e4b14ea270240f8c538b7fdf84dfdb\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\218c7b5e327b628abd84bbf161e57721\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\218c7b5e327b628abd84bbf161e57721\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\6163dace9efbda876ef00dd771eeff7f\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\6163dace9efbda876ef00dd771eeff7f\lifecycle-runtime-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\2701c5c58f07163fe6b91f552a64fae2\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\2701c5c58f07163fe6b91f552a64fae2\lifecycle-viewmodel-2.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\1c2ef318c7288d1ec87a35548c865216\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\1c2ef318c7288d1ec87a35548c865216\jetified-savedstate-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\067ec4a7d70fe6dc6e4e86dfd650a865\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\067ec4a7d70fe6dc6e4e86dfd650a865\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\4cfe95a4dc3005f9bab9d017a289f6f5\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\vimal\.gradle\caches\transforms-2\files-2.1\4cfe95a4dc3005f9bab9d017a289f6f5\jetified-annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\vimal\AndroidStudioProjects\ImageSliderWithSwipes-master\app\src\main\AndroidManifest.xml
