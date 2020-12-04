@@ -66,6 +66,7 @@ public class ImageSliderAdapter extends PagerAdapter {
 
         ImageView imageView = view.findViewById(R.id.imageView);
 
+
         final ProgressBar progressBar  = view.findViewById(R.id.progress_circular);
 
         Glide.with(imageView.getContext())

@@ -7,6 +7,7 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.cardview.widget.CardView;
 import androidx.core.content.ContextCompat;
 import androidx.viewpager.widget.ViewPager;
 
@@ -43,8 +44,6 @@ public class MainActivity extends AppCompatActivity {
 
     String request_url = "https://raw.githubusercontent.com/vimalcvs/Hindi-Calender-2021/main/sliderjsonoutput.php";
 
-    Timer timer;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -53,9 +52,10 @@ public class MainActivity extends AppCompatActivity {
         requestQueue = ImageSliderAdapter.CustomVolleyRequest.getInstance(this).getRequestQueue();
         sliderImg = new ArrayList<>();
 
-        viewPager = (ViewPager) findViewById(R.id.viewPager);
+        viewPager = findViewById(R.id.viewPager);
 
-        sliderDotspanel = (LinearLayout) findViewById(R.id.SliderDots);
+
+        sliderDotspanel = findViewById(R.id.SliderDots);
         sendRequest();
 
 

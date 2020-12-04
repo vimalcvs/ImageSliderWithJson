@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\vimal\\AndroidStudioProjects\\ImageSliderWithSwipes-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\vimal\\AndroidStudioProjects\\ImageSliderWithJson\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
                     "source": "C:\\Users\\vimal\\.gradle\\caches\\transforms-2\\files-2.1\\40c5cfe3567c5283a45a6f541519c191\\jetified-viewpager2-1.0.0\\res\\values\\values.xml",
@@ -20,6 +20,25 @@
                         "endLines": "7573",
                         "endColumns": "24",
                         "endOffsets": "486448"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\vimal\\AndroidStudioProjects\\ImageSliderWithJson\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "54",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "368"
+                    },
+                    "to": {
+                        "startLines": "1048",
+                        "startColumns": "4",
+                        "startOffsets": "66924",
+                        "endLines": "1053",
+                        "endColumns": "12",
+                        "endOffsets": "67238"
                     }
                 },
                 {
@@ -61,26 +80,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\vimal\\AndroidStudioProjects\\ImageSliderWithSwipes-master\\app\\src\\main\\res\\values\\styles.xml",
-                    "from": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "54",
-                        "endLines": "8",
-                        "endColumns": "12",
-                        "endOffsets": "368"
-                    },
-                    "to": {
-                        "startLines": "1048",
-                        "startColumns": "4",
-                        "startOffsets": "66924",
-                        "endLines": "1053",
-                        "endColumns": "12",
-                        "endOffsets": "67238"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\vimal\\AndroidStudioProjects\\ImageSliderWithSwipes-master\\app\\src\\main\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\vimal\\AndroidStudioProjects\\ImageSliderWithJson\\app\\src\\main\\res\\values\\strings.xml",
                     "from": {
                         "startLines": "1",
                         "startColumns": "4",
@@ -135,6 +135,23 @@
                     }
                 },
                 {
+                    "source": "C:\\Users\\vimal\\AndroidStudioProjects\\ImageSliderWithJson\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "450",
+                        "startColumns": "4",
+                        "startOffsets": "22853",
+                        "endColumns": "56",
+                        "endOffsets": "22905"
+                    }
+                },
+                {
                     "source": "C:\\Users\\vimal\\.gradle\\caches\\transforms-2\\files-2.1\\f61d5e6c72377a7841a21fe661221260\\transition-1.2.0\\res\\values\\values.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11",
@@ -171,24 +188,7 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\vimal\\AndroidStudioProjects\\ImageSliderWithSwipes-master\\app\\src\\main\\res\\values\\ic_launcher_background.xml",
-                    "from": {
-                        "startLines": "2",
-                        "startColumns": "4",
-                        "startOffsets": "57",
-                        "endColumns": "56",
-                        "endOffsets": "109"
-                    },
-                    "to": {
-                        "startLines": "450",
-                        "startColumns": "4",
-                        "startOffsets": "22853",
-                        "endColumns": "56",
-                        "endOffsets": "22905"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\vimal\\AndroidStudioProjects\\ImageSliderWithSwipes-master\\app\\src\\main\\res\\values\\colors.xml",
+                    "source": "C:\\Users\\vimal\\AndroidStudioProjects\\ImageSliderWithJson\\app\\src\\main\\res\\values\\colors.xml",
                     "from": {
                         "startLines": "4,2,3",
                         "startColumns": "4,4,4",

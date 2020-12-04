@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\vimal\\AndroidStudioProjects\\ImageSliderWithSwipes-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "outputFile": "C:\\Users\\vimal\\AndroidStudioProjects\\ImageSliderWithJson\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
             "map": [
                 {
                     "source": "C:\\Users\\vimal\\.gradle\\caches\\transforms-2\\files-2.1\\20945bc7a31ecf87d1b241e18574dcec\\appcompat-1.2.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",

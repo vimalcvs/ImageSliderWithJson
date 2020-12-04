@@ -1,12 +1,5 @@
 com/vimalcvs/imagesliderwithjson/BuildConfig.java
  com.vimalcvs.imagesliderwithjson.BuildConfig
-com/vimalcvs/imagesliderwithjson/application/ImageSliderAdapter.java
- com.vimalcvs.imagesliderwithjson.application.ImageSliderAdapter
- com.vimalcvs.imagesliderwithjson.application.ImageSliderAdapter$1
- com.vimalcvs.imagesliderwithjson.application.ImageSliderAdapter$2
- com.vimalcvs.imagesliderwithjson.application.ImageSliderAdapter$CustomVolleyRequest
- com.vimalcvs.imagesliderwithjson.application.ImageSliderAdapter$CustomVolleyRequest$1
- com.vimalcvs.imagesliderwithjson.application.ImageSliderAdapter$SliderUtils
 com/vimalcvs/imagesliderwithjson/MainActivity.java
  com.vimalcvs.imagesliderwithjson.MainActivity
  com.vimalcvs.imagesliderwithjson.MainActivity$1
@@ -14,3 +7,10 @@ com/vimalcvs/imagesliderwithjson/MainActivity.java
  com.vimalcvs.imagesliderwithjson.MainActivity$3
  com.vimalcvs.imagesliderwithjson.MainActivity$4
  com.vimalcvs.imagesliderwithjson.MainActivity$5
+com/vimalcvs/imagesliderwithjson/application/ImageSliderAdapter.java
+ com.vimalcvs.imagesliderwithjson.application.ImageSliderAdapter
+ com.vimalcvs.imagesliderwithjson.application.ImageSliderAdapter$1
+ com.vimalcvs.imagesliderwithjson.application.ImageSliderAdapter$2
+ com.vimalcvs.imagesliderwithjson.application.ImageSliderAdapter$CustomVolleyRequest
+ com.vimalcvs.imagesliderwithjson.application.ImageSliderAdapter$CustomVolleyRequest$1
+ com.vimalcvs.imagesliderwithjson.application.ImageSliderAdapter$SliderUtils

@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\vimal\\AndroidStudioProjects\\ImageSliderWithSwipes-master\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h480dp-land-v13\\values-h480dp-land-v13.xml",
+            "outputFile": "C:\\Users\\vimal\\AndroidStudioProjects\\ImageSliderWithJson\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h480dp-land-v13\\values-h480dp-land-v13.xml",
             "map": [
                 {
                     "source": "C:\\Users\\vimal\\.gradle\\caches\\transforms-2\\files-2.1\\173134cade9db9f79f110c22cc971261\\material-1.2.1\\res\\values-h480dp-land-v13\\values-h480dp-land-v13.xml",

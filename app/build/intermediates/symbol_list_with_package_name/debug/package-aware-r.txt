@@ -1664,6 +1664,7 @@ id barrier
 id baseline
 id beginOnFirstDraw
 id beginning
+id bg_color
 id blocking
 id bottom
 id bounce
